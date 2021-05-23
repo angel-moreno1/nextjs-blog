@@ -3,6 +3,7 @@ import Image from 'next/image'
 import styles from './Layout.module.css'
 import utilStyles from '../styles/utils.module.css'
 import Link from 'next/link'
+import React from 'react'
 
 const name = 'Angel Moreno'
 export const siteTitle = 'Next.js Sample Website'
