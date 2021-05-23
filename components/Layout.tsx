@@ -8,7 +8,12 @@ import React from 'react'
 const name = 'Angel Moreno'
 export const siteTitle = 'Next.js Sample Website'
 
-export default function Layout({ children, home }) {
+interface LayoutInterfaces {
+  children: Array<React.ReactElement>,
+  home?: Boolean
+}
+
+export default function Layout({ children, home }: LayoutInterfaces) {
   return (
     <div className={styles.container}>
       <Head>
