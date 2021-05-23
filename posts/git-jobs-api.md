@@ -12,7 +12,7 @@ You can use Static Generation for many types of pages, including:
 - E-commerce product listings
 - Help and documentation
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg 'a title')
+![Alt text](https://th.bing.com/th/id/OIP.UW4GWLJm2sySc6bw0f6MpAHaE7?pid=ImgDet&rs=1 'a title')
 
 You should ask yourself: "Can I pre-render this page **ahead** of a user's request?" If the answer is yes, then you should choose Static Generation.
 
